@@ -23,8 +23,9 @@ Included libraries:
 
 ### Installation
 
-1. Install all NPM dependencies by running `npm install` in the root directory
-2. Install all Bower dependencies by running `bower install` in the root directory
+1. Install atom-shell by running `./install.sh`
+2. Install all NPM dependencies by running `npm install` in the root directory
+3. Install all Bower dependencies by running `bower install` in the `app/browser` directory.
 
 ### Running
 
