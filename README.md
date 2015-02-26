@@ -10,7 +10,7 @@ This is a small template for an [Atom Shell](https://github.com/atom/atom-shell)
 
 * It's a template App which will open an App window and send a sentence from the backend to the App window.
 * It has a development gulp script which will:
-    * restart the App every time a js/html/scss file is changed.
+    * restart the App every time a server-side (renderer) Javascript file is changed.
     * recompile the SCSS into CSS if a scss file is changed.
     * lint the Javascript with `gulp jslint`.
     * lint the SCSS with `gulp scsslint`.
